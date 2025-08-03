@@ -29,7 +29,7 @@ The project consists of a distributed voting application with the following comp
 - **ArgoCD**: GitOps tool for automated deployments
 - **Kubernetes Dashboard**: Cluster monitoring and visualization
 
-![Architecture Diagram](architecture_diagram.svg)
+![Architecture Diagram](architecture_diag.png)
 
 ## Technologies Used
 
